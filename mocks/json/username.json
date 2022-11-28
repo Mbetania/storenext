@@ -1,0 +1,10 @@
+{
+    "succeess" : true,
+    "message": "usuario validado correctamente",
+    "data":{
+        "userId" : "909516",
+        "storeName" : "Tienda Mia",
+        "storeUrl" : "https://tiendamia.intialurl.com"
+    }
+        
+}
